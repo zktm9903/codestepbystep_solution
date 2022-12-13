@@ -13,3 +13,4 @@
 - lab11 (fencepost loops)
 - lab12 (While loop, Sentinel loop)
 - lab13 (Reading Files)
+- lab14 (list)
