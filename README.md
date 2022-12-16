@@ -14,4 +14,4 @@
 - lab12 (While loop, Sentinel loop)
 - lab13 (Reading Files)
 - lab14 (list)
-= lab15 (list 2)
+- lab15 (list 2)
